@@ -1,17 +1,38 @@
 # Pharmacy Ordering System
 
-- Muhammad - [Role/Contribution]
-- [Member 2 Name] - [Role/Contribution]
-- [Member 3 Name] - [Role/Contribution]
-- [Member 4 Name] - [Role/Contribution]
+This project is for subject Distributed Application Development......
+<br><br>
+### Team Members
 
+| Name             | Matric Number     |
+| ---------------- | --------------------- |
+| Muhammad Akmal Hakim Hishamuddin  | B032310162  |
+| Siti Balqis bin Mat Muharam  | B032310135   |
+| Muhammad Zulhelmi bin Noor Afendi  | B032310217  |
+| Ahmad Naqiuddin bin Mohamad  | B032310002  |
+
+<br><br>
 ## How many apps involved
 
+<div align="justify">
+  
+We have two main applications within our system.
+
+The first application focuses on customer transactions. When a customer purchases an item, the transaction is recorded and stored in our database. Both the item details and user information are maintained in this database to ensure accurate record-keeping. Customers can also use this application to check the status of their purchased items at any time.
+
+The second application is designed for administrative purposes. Admins have access to view all orders placed by customers. They can update the status of these orders, which customers can then track in real-time. Additionally, admins can generate and view comprehensive sales reports and monitor the statuses of all orders to ensure efficient order management and fulfillment.
+
+Together, these applications streamline the transaction process for customers and provide robust administrative tools for managing orders and sales.
+
+</div>
+
+<br><br>
 ## Brief explanation each apps
 
+<br><br>
 ## Architecture/Layer diagram for each of the apps including the middleware
 
-
+<br><br>
 ## List of URL Endpoints for Middleware RESTful/SOAP/Socket
 
 - **User Login**
@@ -41,7 +62,7 @@
 - **Generate Reports**
   - `http://localhost/webServiceProjectDAD/report.php?action=`
 
-
+<br><br>
 ## Functions/Features in the middleware
 
 ### Order Management
@@ -109,6 +130,7 @@
    - **Accepts:** An `action` parameter with values like `totalItems`, `totalDelivered`, `totalInProcess`, `totalUsers`, and `totalSales`.
    - **Executes:** The corresponding query and returns the report data or an error for invalid actions.
 
+<br><br>
 ## The database and tables involve in the projects
 
 ### Database name: projectdad
