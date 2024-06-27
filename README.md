@@ -1,12 +1,18 @@
+# Pharmacy Ordering System
 
-# How many apps involved
+- Muhammad - [Role/Contribution]
+- [Member 2 Name] - [Role/Contribution]
+- [Member 3 Name] - [Role/Contribution]
+- [Member 4 Name] - [Role/Contribution]
 
-# Brief explanation each apps
+## How many apps involved
 
-# Architecture/Layer diagram for each of the apps including the middleware
+## Brief explanation each apps
+
+## Architecture/Layer diagram for each of the apps including the middleware
 
 
-# List of URL Endpoints for Middleware RESTful/SOAP/Socket
+## List of URL Endpoints for Middleware RESTful/SOAP/Socket
 
 - **User Login**
   - `http://localhost/webServiceProjectDAD/login.php`
@@ -36,9 +42,9 @@
   - `http://localhost/webServiceProjectDAD/report.php?action=`
 
 
-# Functions/Features in the middleware
+## Functions/Features in the middleware
 
-## Order Management
+### Order Management
 
 1. **Add Order**
    - **Endpoint:** `addOrder.php`
@@ -65,7 +71,7 @@
    - **Returns:** A success or error message in JSON format.
 
 
-  ## Product Management
+  ### Product Management
 
 1. **Get Product Quantity**
    - **Endpoint:** `getProductQuantity.php`
@@ -86,7 +92,7 @@
    - **Returns:** Product names and prices or an error if the query fails.
 
 
-## User Management
+### User Management
 
 1. **User Login**
    - **Endpoint:** `login.php`
@@ -95,7 +101,7 @@
    - **Returns:** A success or error message and includes the user's role if authentication is successful.
 
 
-## Reporting
+### Reporting
 
 1. **Generate Reports**
    - **Endpoint:** `report.php`
@@ -103,11 +109,12 @@
    - **Accepts:** An `action` parameter with values like `totalItems`, `totalDelivered`, `totalInProcess`, `totalUsers`, and `totalSales`.
    - **Executes:** The corresponding query and returns the report data or an error for invalid actions.
 
-# The database and tables involve in the projects
+## The database and tables involve in the projects
 
-Database name: projectdad
+### Database name: projectdad
 
-Database tables:
+### Database tables:
+
 ![image](https://github.com/MalKim007/pharmacy-ordering-system/assets/118043542/0983f331-c2fa-4899-9d31-cdb067487a97)
 
 
