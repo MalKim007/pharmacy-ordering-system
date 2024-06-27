@@ -12,6 +12,7 @@ The details required:
 
 
 - List of URL end points middleware RESTful/SOAP/Socket
+
 http://localhost/webServiceProjectDAD/login.php
 http://localhost/webServiceProjectDAD/getAllOrders.php
 http://localhost/webServiceProjectDAD/populateProductList.php?category=
@@ -30,7 +31,6 @@ http://localhost/webServiceProjectDAD/report.php?action=
 Database name: projectdad
 
 Database tables:
-![image](https://github.com/MalKim007/pharmacy-ordering-system/assets/118043542/383759d5-fad6-4635-99a0-86f5608e0d55)
-![image](https://github.com/MalKim007/pharmacy-ordering-system/assets/118043542/f62f9256-709b-4655-adb2-a238fec9fb16)
-![image](https://github.com/MalKim007/pharmacy-ordering-system/assets/118043542/a39669ec-d363-46ce-81de-c36f1c2414ee)
+![image](https://github.com/MalKim007/pharmacy-ordering-system/assets/118043542/0983f331-c2fa-4899-9d31-cdb067487a97)
+
 
