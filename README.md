@@ -1,6 +1,6 @@
 # Pharmacy Ordering System
 
-This project is for subject Distributed Application Development......
+This project is for subject Distributed Application Development...
 <br><br>
 ### Team Members
 
@@ -29,11 +29,112 @@ Together, these applications streamline the transaction process for customers an
 <br><br>
 ## Brief explanation each apps
 
+### Customer Flow
+
+#### Choose Item Process
+
+1. **Select Menu:** 
+   - The customer clicks on the "Choose Item" option in the menu option.
+
+2. **Browse by Category:** 
+   - The customer can browse and select items based on different categories.
+
+3. **Specify Quantity:** 
+   - Once the customer selects the desired item, they can enter the quantity for each item.
+
+4. **Enter Personal Information:** 
+   - After finalizing the item selection and quantity, the customer needs to enter their phone number and address.
+
+5. **Submit Order:** 
+   - The customer clicks the "Submit" button to proceed with their purchase.
+
+6. **View Receipt and Confirmation:** 
+   - A receipt will be displayed, showing the total price of the items. A confirmation message will also pop up, indicating whether the purchase was successful.
+
+<br>
+
+#### Check History Process
+
+1. **Select Menu:** 
+   - The customer clicks on the "Manage History" option in the menu.
+
+2. **View All History:** 
+   - The customer can view the entire order history, although the list may not be sorted according to their preferences.
+
+3. **Search Order Status:** 
+   - The customer can filter the order history by selecting a specific order status and clicking the "Search" button.
+
+4. **Filtered List:** 
+   - The list will update to display orders matching the selected status.
+  
+<br>
+
+### Admin Flow
+#### Navigate to Check Order Page
+
+- **Navigate to Check Order Page:**
+  - Admin clicks the "Check Order" button.
+
+#### Check Order Page
+
+- **Check Order Page:**
+  - Admin is directed to the Check Order page.
+  - The page displays a table listing the orders.
+
+#### Sorting Orders
+
+- **Sorting Orders:**
+  - Admin uses the "Sort By" dropdown menu.
+  - Admin selects a sorting criterion such as "Pending, Packing, In Transit, Out For Delivery, Delivered."
+  - Admin clicks the "Apply" button to sort the orders accordingly.
+
+- **Efficient Management:**
+  - This process allows the admin to manage orders efficiently by sorting and filtering as needed.
+
+#### Update Status
+
+  - The "Sort By" dropdown menu offers a range of sorting options:
+    - All
+    - Pending
+    - Packing
+    - In Transit
+    - Out For Delivery
+    - Delivered
+  - The table displays orders with various statuses, including Pending, Packing, Delivered, In Transit, and more detailed order information.
+  - When "Delivered" is selected in the "Sort By" dropdown, the table displays only orders with the "Delivered" status, demonstrating how the sorting function filters the orders.
+
+#### Order Details Section
+
+- **Order Details Section:**
+  - The admin can view and update individual orders in the order details section:
+    - **Customer Name Field:** Shows the customer's name.
+    - **Items Field:** Shows the items ordered.
+    - **Order ID Field:** Shows the Order ID.
+    - **Status Dropdown:** Currently set to "In Transit" with options to change the status to Pending, Packing, In Transit, Delivered, or Canceled.
+    - **Update Button:** Updates the order details.
+    - **Clear Button:** Clears the order details fields.
+   
+#### Analysis Report
+
+- **Total Item:**
+   - Count the total items from the database that have been registered.
+
+- **Total User:**
+   - Count the total users from the database that have been registered.
+
+- **Total Delivered:**
+   - Count the number of total deliveries that have successfully been delivered to the customer's doorstep.
+
+- **Total Inprocess:**
+   - Count the number of total deliveries that are in process of being delivered to the customer's doorstep.
+
+- **Total Sales:**
+   - Count the total sales that have been ordered by the customer.
 <br><br>
 ## Architecture/Layer diagram for each of the apps including the middleware
 
 <br><br>
-## List of URL Endpoints for Middleware RESTful/SOAP/Socket
+## List of URL Endpoints for Middleware RESTful
 
 - **User Login**
   - `http://localhost/webServiceProjectDAD/login.php`
