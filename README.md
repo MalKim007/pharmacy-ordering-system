@@ -14,14 +14,24 @@ The details required:
 - List of URL end points middleware RESTful/SOAP/Socket
 
 http://localhost/webServiceProjectDAD/login.php
+
 http://localhost/webServiceProjectDAD/getAllOrders.php
+
 http://localhost/webServiceProjectDAD/populateProductList.php?category=
+
 http://localhost/webServiceProjectDAD/updateProductQuantity.php
+
 http://localhost/webServiceProjectDAD/getProductQuantity.php?productName=
+
 http://localhost/webServiceProjectDAD/addOrder.php
+
 http://localhost/webServiceProjectDAD/getCustomerOrders.php?username=
+
 http://localhost/webServiceProjectDAD/updateOrderStatus.php
+
 http://localhost/webServiceProjectDAD/report.php?action=
+
+
 
 - Functions/Features in the middleware
 
