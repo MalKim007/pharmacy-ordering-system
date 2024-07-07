@@ -6,10 +6,10 @@ This project is for subject Distributed Application Development...
 
 | Name             | Matric Number     |
 | ---------------- | --------------------- |
-| Muhammad Akmal Hakim Hishamuddin  | B032310162  |
-| Siti Balqis binti Mat Muharam  | B032310135   |
-| Muhammad Zulhelmi bin Noor Afendi  | B032310217  |
-| Ahmad Naqiuddin bin Mohamad  | B032310002  |
+| Muhammad Akmal Hakim Bin Hishamuddin  | B032310162  |
+| Siti Balqis Binti Mat Muharam  | B032310135   |
+| Muhammad Zulhelmi Bin Noor Afendi  | B032310217  |
+| Ahmad Naqiuddin Bin Mohamad  | B032310002  |
 
 <br><br>
 ## How many apps involved
