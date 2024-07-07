@@ -1,6 +1,7 @@
 # Pharmacy Ordering System
 
-This project is for subject Distributed Application Development...
+This project is for subject Distributed Application Development.
+Presentation link: http
 <br><br>
 ### Team Members
 
