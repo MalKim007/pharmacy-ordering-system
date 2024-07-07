@@ -133,6 +133,8 @@ Together, these applications streamline the transaction process for customers an
 <br><br>
 ## Architecture/Layer diagram for each of the apps including the middleware
 
+![WhatsApp Image 2024-07-07 at 23 14 05_7d20a87e](https://github.com/MalKim007/pharmacy-ordering-system/assets/118043542/e0080400-4ab3-4b46-a3bd-95cc66c60ea9)
+
 <br><br>
 ## List of URL Endpoints for Middleware RESTful
 
