@@ -1,9 +1,7 @@
 # Pharmacy Ordering System
 
 This project is for subject Distributed Application Development. <br><br>
-Our presentation link: https://utemedu.sharepoint.com/:v:/s/StudyGroup17/EVE9opGC4E9GgbhMiJcvKEMBVA_8bMQy04glB4XZandWDg?nav=eyJyZWZlcnJhbiEluZm8iOnsicmVmZXJyYWxBcHAiOiJTJdHJIYW1XZWJBcHAiLCJyzWZlcnJhbfZpZXciOiJTaGfyZURpYWxzY1MaW5rliwicmVmZXJyYWxBcHBQbGFOZm9ybSl6lldlYilsnJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=5BRRbz
-<br><br>
-Our presentation link: [Click Here!](https://utemedu.sharepoint.com/:v:/s/StudyGroup17/EVE9opGC4E9GgbhMiJcvKEMBVA_8bMQy04glB4XZandWDg?nav=eyJyZWZlcnJhbiEluZm8iOnsicmVmZXJyYWxBcHAiOiJTJdHJIYW1XZWJBcHAiLCJyzWZlcnJhbfZpZXciOiJTaGfyZURpYWxzY1MaW5rliwicmVmZXJyYWxBcHBQbGFOZm9ybSl6lldlYilsnJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=5BRRbz)
+Our presentation link: [Click Here!](https://youtu.be/pwgZMwuDQss)
 <br>
 
 ### Team Member
